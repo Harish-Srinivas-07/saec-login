@@ -1,8 +1,8 @@
 # 🌟 SAEC College Login Portal Automation 🌟
 
-Welcome to the **SAEC College Login Portal Automation** project! :computer:
+Welcome to the **SAEC College Login Portal Automation** project!
 
-This project is an automation script developed during my study period for SAEC College's login portal. It serves the purpose of gaining practical experience in web automation, enhancing understanding of web security, and applying cybersecurity concepts. :shield:
+This project is an automation script developed during my study period for SAEC College's login portal. It serves the purpose of gaining practical experience in web automation, enhancing understanding of web security, and applying cybersecurity concepts.
 
 ## 🚀 Project Details
 
@@ -47,10 +47,17 @@ This project relies on the following technologies and libraries:
     ```bash
     git clone https://github.com/Harish-Srinivas-07/saec-login.git
     ```
-
+    
 2. Run the Python script.
+3. Install dependency through cmd
+   
+   ```bash
+   pip install requests
+   pip install selenium
+    ```
+   
 
-3. Follow the on-screen prompts to interact with the SAEC College login portal.
+4. Run the code by F5 in python shell
 
 ### 🤖 Actions
 
@@ -67,6 +74,5 @@ This project relies on the following technologies and libraries:
 - GitHub: [Harish-Srinivas-07](https://github.com/Harish-Srinivas-07)
 
 ---
-
 
 Explore the world of web automation, cybersecurity, and practical programming with this project! 
