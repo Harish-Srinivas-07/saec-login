@@ -30,6 +30,7 @@ This project relies on the following technologies and libraries:
 - Python 3.x
 - Selenium: A powerful tool for web automation.
 - Requests: A Python library for making HTTP requests.
+- Microsoft Edge WebDriver: Required for Edge browser automation.
 
 ### How It Works
 
@@ -38,6 +39,8 @@ This project relies on the following technologies and libraries:
 3. The automation script uses Selenium to interact with the login page:
    - It enters your SAEC College credentials.
    - Navigates through the portal to perform actions like accessing exam results and personal details.
+   - Retrieves a name from the UG fees payment portal database.
+   - Combines the date of birth (DOB) to crack the password.
 4. The script ensures secure handling of credentials and automates the logout process when needed.
 
 ### Usage
@@ -48,15 +51,14 @@ This project relies on the following technologies and libraries:
     git clone https://github.com/Harish-Srinivas-07/saec-login.git
     ```
     
-2. Run the Python script.
-3. Install dependency through cmd
+2. Install dependency through cmd
    
    ```bash
    pip install requests
    pip install selenium
     ```
-   
 
+3. Download the Microsoft Edge WebDriver and add it to your system's PATH. You can download it from [Microsoft Edge WebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/).
 4. Run the code by F5 in python shell
 
 ### 🤖 Actions
@@ -67,6 +69,12 @@ This project relies on the following technologies and libraries:
 4. Exam Performance
 5. Internal Assessment Details
 6. Logout
+
+### Usage
+
+1. Run the Python script.
+
+2. Follow the on-screen prompts to interact with the SAEC College login portal.
 
 ## 👤 Author
 
