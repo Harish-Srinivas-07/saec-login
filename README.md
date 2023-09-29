@@ -9,7 +9,7 @@ This project is an automation script developed during my study period for SAEC C
 SAEC College is a prestigious educational institution known for its dedication to excellence in engineering education. S.A. Engineering College offers students an advantageous atmosphere with state-of-the-art facilities, distinguished mentors, and a pleasant educational environment. The institution provides employability and communication skills for the development of students. It focuses on shaping students to become self-disciplined, self-dependent, and self-confident individuals. SAEC pulls out all the stops to mold students' careers in such a way that they excel in all fine distinctions of life. 
 
 - **College Website**: [saec.ac.in](https://saec.ac.in) 
-- **SAEC Student Login Portal**: [saec.ac.in//studentlogin](https://coe.saec.ac.in/exam/studentlogin/login.php) 
+- **SAEC Student Login Portal**: [saec.ac.in/studentlogin](https://coe.saec.ac.in/exam/studentlogin/login.php) 
 - **SAEC Fees Payment (for name extraction)**: [saec.ac.in/onlinefeepayment](https://www.saec.ac.in/onlinefeepayment) 
 
 ## 🎯 Project Objectives 🚀
@@ -30,7 +30,7 @@ This project relies on the following technologies and libraries:
 - Time: Python's standard library for handling time and date operations.
 - Re: Python's regular expression library, used for pattern matching in the script.
 
-You can ensure you have these dependencies installed before running the project. Additionally, please take note of the updated code provided, which includes these imports.
+Ensure you have these dependencies installed before running the project.
 
 ## 🤖 How It Works 
 
@@ -43,7 +43,8 @@ You can ensure you have these dependencies installed before running the project.
    - Combines the date of birth (DOB) to crack the password.
 4. The script ensures secure handling of credentials and automates the logout process when needed. 🔐🕒
 
-Please note that unauthorized password changes are performed for educational purposes and should not be used without proper authorization. Fees details are retrieved using email and phone numbers, which are obtained from profile information and open-source resources with AES encryption.
+Please note that unauthorized password changes are performed for educational purposes and should not be used without proper authorization. 
+Fees details are retrieved using email and phone numbers, which are obtained from profile information and open-source resources with AES encryption.
 
 ## 💻 Installation 🛠️
 
@@ -86,7 +87,8 @@ Here's a detailed breakdown of the actions performed by the SAEC College Login P
 - **Internal Assessment Details**: Obtain information about internal assessments and your performance in them.
 
 - **Change Password**:
-  - Actual change the password for the logged-in account to "Hacked@123." Note: This action is performed for educational purposes and should not be used without proper authorization.
+  - Actual change the password for the logged-in account to "Hacked@123."
+    Note: This action is performed for educational purposes and should not be used without proper authorization.
 
 - **Retrieve Fees Details (using email and phone numbers with AES encryption)**:
   - **Predict Email IDs**:
@@ -98,7 +100,8 @@ Here's a detailed breakdown of the actions performed by the SAEC College Login P
 
 - **Logout**: Logs out of the SAEC College portal.
 
-Additionally, it's worth noting that the software can identify accounts that have had their passwords changed by this tool, as they will have the password "Hacked@123." This information is provided for educational purposes and should not be used maliciously.
+Additionally, it's worth noting that the software can identify accounts that have had their passwords changed by this tool, as they will have the password "Hacked@123." 
+This information is provided for educational purposes and should not be used maliciously.
 
 ## 👤 Author 
 
@@ -106,7 +109,6 @@ Additionally, it's worth noting that the software can identify accounts that hav
 - **GitHub**: [Harish-Srinivas-07](https://github.com/Harish-Srinivas-07) 
 
 ---
-Certainly, here's the "Credits" section added to your README:
 
 ## 🙌 Credits
 
