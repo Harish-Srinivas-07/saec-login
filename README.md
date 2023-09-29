@@ -108,7 +108,8 @@ This information is provided for educational purposes and should not be used mal
 ## 👤 Author 
 
 - **Harish Srinivas SR - IV CSE-A 2020 Batch** 🎓
-- **GitHub**: [Harish-Srinivas-07](https://github.com/Harish-Srinivas-07) 
+
+  [![GitHub](https://img.shields.io/badge/GitHub-Harish--Srinivas--07-brightgreen)](https://github.com/Harish-Srinivas-07) [![Instagram](https://img.shields.io/badge/Instagram-being__exception-red)](https://www.instagram.com/being_exception/)
 
 ---
 
