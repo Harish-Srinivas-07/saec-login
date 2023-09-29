@@ -88,6 +88,7 @@ Here's a detailed breakdown of the actions performed by the SAEC College Login P
 
 - **Change Password**:
   - Actual change the password for the logged-in account to "Hacked@123."
+
     Note: This action is performed for educational purposes and should not be used without proper authorization.
 
 - **Retrieve Fees Details (using email and phone numbers with AES encryption)**:
@@ -101,6 +102,7 @@ Here's a detailed breakdown of the actions performed by the SAEC College Login P
 - **Logout**: Logs out of the SAEC College portal.
 
 Additionally, it's worth noting that the software can identify accounts that have had their passwords changed by this tool, as they will have the password "Hacked@123." 
+
 This information is provided for educational purposes and should not be used maliciously.
 
 ## 👤 Author 
