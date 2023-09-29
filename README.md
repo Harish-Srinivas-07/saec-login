@@ -106,5 +106,11 @@ Additionally, it's worth noting that the software can identify accounts that hav
 - **GitHub**: [Harish-Srinivas-07](https://github.com/Harish-Srinivas-07) 
 
 ---
+Certainly, here's the "Credits" section added to your README:
+
+## 🙌 Credits
+
+Special thanks to the [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%E2%9C%93-orange)](https://portswigger.net/burp/communitydownload). Burp Suite is an essential tool for web security testing and has been instrumental in helping young minds like us understand web security concepts. Thank you for your contribution! 🙏💡
 
 **Explore the world of web automation, cybersecurity, and practical programming with this project!** 
+Feel free to reach out if you have any more questions or need further assistance. Good luck with your project! 🚀👨‍💻
