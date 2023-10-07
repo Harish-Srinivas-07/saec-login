@@ -157,8 +157,8 @@ headers_login = {
     "Connection": "close"
 }
 
-start_date = datetime(2002, 1, 1)
-end_date = datetime(2005, 12, 31)
+start_date = datetime(2002, 12, 1)
+end_date = datetime(2002, 12, 31)
 current_date = start_date
 print("Trying date of birth combinations ...")
 
@@ -282,4 +282,3 @@ while current_date <= end_date:
         print("An error occurred:", e)
 
     current_date += timedelta(days=1)
-#feel free to ask -> i am just a begineer to cybersecurity
